@@ -1,4 +1,6 @@
-background-image: url('../img/bg_pattern.png');
+body {
+	background-image: url('../img/bg_pattern.png');
+}
 
 .addToDo {
 background-color: Transparent;
