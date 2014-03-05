@@ -18,7 +18,6 @@ function createNewToDo()
             addTableRow(todoDictionary, false);
         }
     }
- 
 }
 
 // add a row to the table
@@ -245,7 +244,6 @@ function deleteAllRows()
     // save the to-do list
     saveToDoList();
 }
-
 
 element1.setAttribute("onclick","checkboxClicked()");
 element1.className = "checkbox"; // ADD ME - Add the class name 'checkbox' to element1
