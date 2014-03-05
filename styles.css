@@ -21,7 +21,7 @@ width:100%;
 
 /* Portrait layout (default) */
 .app {
-background:url(../img/logo.png) no-repeat center top; /* 170px x 200px */
+background:url(img/logo.png) no-repeat center top; /* 170px x 200px */
 position:absolute;             /* position in the center of the screen */
 left:50%;
 top:50%;
@@ -108,7 +108,7 @@ right:0px;
 
 .checkbox {
 background-color:Transparent;
-background-image:url('../img/check_box.png');
+background-image:url('img/check_box.png');
 width:34px;
 height:32px;
 }
@@ -119,14 +119,14 @@ background-color:grey;
 
 .viewButton { 
 background-color:Transparent;
-background-image:url('../img/button_view.png');
+background-image:url('img/button_view.png');
 width:64px;
 height:32px;
 }
 
 .deleteButton { 
 background-color:Transparent;
-background-image:url('../img/button_delete.png');
+background-image:url('img/button_delete.png');
 width:64px;
 height:32px;
 }
